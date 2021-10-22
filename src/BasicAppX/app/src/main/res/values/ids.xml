@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="convertButton" type="id" />
+    <item name="inputText" type="id" />
+    <item name="outputText" type="id" />
+    <item name="oriList" type="id" />
+    <item name="convList" type="id" />
+    <item name="radioGroup" type="id" />
+    <item name="chkRounded" type="id" />
+    <item name="chkFormula" type="id" />
+    <item name="img" type="id" />
+    <item name="imgFormula" type="id" />
+</resources>
